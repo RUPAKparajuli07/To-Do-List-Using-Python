@@ -85,4 +85,10 @@ Finally, the code calls the `update_time()` and `update_date()` functions to sta
 9. The current time and date are displayed at the top of the window, and they update automatically.
 10. To exit the application, close the window or press the close button.
 
+Contributing
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
+License
+The To-Do List Application is licensed under the MIT License.
+
 That concludes the documentation for the To-Do List application code. The provided code offers basic functionality, but you can modify and extend it to suit your specific requirements.
